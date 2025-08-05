@@ -1,0 +1,14 @@
+In Transit
+--==> Would use TLS/SSL encryption menthod in Kafka and API communications
+
+At Rest
+--==> AES-256 using pgcrypto for databses fields
+
+Login
+--==> OAuth and JWT verification system
+--==> Keeping access token and refresh token expiry as 24hr and 7Days respectively.
+
+Role based Access Control
+--==> Patient, Staff would have different access to the App
+
+
