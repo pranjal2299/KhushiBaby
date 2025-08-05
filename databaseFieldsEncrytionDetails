@@ -1,0 +1,5 @@
+
+rfid_tag - Links physical identity
+diseaseID - Sensitive health info
+address,contactInfo - Personal Identifiable Information (PII) (Patient)
+medicineID - Could get a fair bit idea about the disease with the medicine assigned
